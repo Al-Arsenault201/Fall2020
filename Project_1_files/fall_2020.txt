@@ -1,0 +1,23 @@
+Class: Fall 2020
+Student Name	Student ID	Project 1	Project 2	Project 3	Test 1	Test 2	Test 3	Test 3
+Hofstadter, Leonard	A12345	80	80	64	75	123	189	189
+Cooper, Sheldon	B34093	78	72	63	75	125	200	200
+Fowler, Amy-Farrah	C39080	45	80	64	70	67	165	165
+Wheaton, Wil	D49830	63	62	77	72	114	199	199
+Rostenkowski-Wolowitz, Bernadette	E38909	78	78	80	68	89	187	187
+Cooper, Mary	F13047	23	79	78	69	100	184	184
+Hofstadter, Beverly	A09324	80	71	79	54	125	172	172
+Koothrapalli, Rajesh	Z23980	79	69	42	71	119	123	123
+Winkel, Lesley	X30909	78	71	65	73	114	200	200
+Gabelhouser, Eric	Y23909	77	64	80	61	120	198	198
+Bloom, Stewart	Q45988	79	79	77	64	113	167	167
+Sweeney, Emily	D39887	80	65	80	55	120	199	199
+Nowitzki, Ramona	R32078	56	80	65	63	125	188	188
+Kripke, Barry	Y32812	79	64	64	72	100	174	174
+Kibbler, Bert	C09876	80	80	70	74	98	183	183
+Nguyen, Tam	B39077	72	80	71	75	125	192	192
+Robinson, Althea	C83272	64	80	78	73	114	200	200
+Jensen, Alex	G23534	59	62	72	69	92	196	196
+Davis, Janine	X25730	73	54	80	47	110	200	200
+Koothrapalli, Priya	Z39871	52	79	80	55	125	180	180
+

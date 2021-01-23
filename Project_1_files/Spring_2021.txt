@@ -1,0 +1,26 @@
+Class: Spring 2021							
+Student Name	Student ID	Project 1	Project 2	Project 3	Test 1	Test 2	Test 3
+Dahlkemper, Abby	LT1HIA	54	41	70	58	113	192
+Davidson, Tierna	5AEOPC	59	42	65	69	114	173
+Dunn, Crystal	I4K7HQ	61	60	76	66	108	192
+Ertz, Julie	POSYK0	74	58	66	69	87	163
+Franch, Adrianna	J7CUK9	74	75	73	62	111	197
+Harris, Ashlyn	WDDGWZ	78	58	70	49	83	158
+Heath, Tobin	XXTOGF	66	78	74	55	97	187
+Horan, Lindsey	CS0BJS	57	71	80	69	86	170
+Krieger, Ali	LTUFMH	74	73	70	59	109	197
+Lavelle, Rose	K2GWLK	67	79	75	54	117	192
+Lloyd, Carli	M1E1PS	74	65	57	53	115	170
+McDonald, Jessica	Y1H84R	60	44	77	69	99	184
+Mewis, Samantha	P9KQK5	61	65	53	59	88	170
+Naeher, Alyssa	V5Z27R	78	74	70	67	117	184
+O'Hara, Kelley	UYY1PW	50	57	69	49	97	160
+Press, Christen	QLNW31	62	64	80	66	98	182
+Rapinoe, Megan	UI3CZ3	62	53	58	47	86	189
+Sauerbruss, Becky	OB3NYL	78	51	55	46	121	161
+Short, Casey	375CQ7	59	59	76	65	84	172
+Sonnett, Emily	C2S3CO	73	60	63	74	98	180
+Sullivan, Andi	GNAVGE	74	69	69	43	98	193
+Williams, Lynn	CVYWFL	64	54	75	63	98	173
+Pugh, Mallory	OL6DY6	72	41	73	52	92	196
+
